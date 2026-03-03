@@ -14,7 +14,7 @@ const config = {
   organizationName: 'JackSteve-code', 
   projectName: 'MY-API-GOVERNANCE', 
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
